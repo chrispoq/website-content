@@ -55,14 +55,14 @@ Whatever you do, prepare, and be mindful of the challenges.
 ### Physical and Mental Health
 One of the biggest challenges is maintaining your physical and mental well-being (especially for extroverts).
 
-It's easy to stay home and not get the exercise you'd naturally get when commuting, or simply stop going physical exercise due to inertia. This can set in quite quickly and the trick is to:
+It's easy to stay home and not get the exercise you'd naturally get when commuting, or simply stop doing physical exercise due to inertia. This can set in quite quickly and the trick is to:
 
 - **Join a gym**, especially one with a penalty for not attending classes. Sounds bad but you'll feel guilty for not showing up, and the penalty will scrape you out of bed.
 - **Run** and join a running group like Parkrun or your local running group (search Meet-up or Eventbrite, ask around): running is the cheapest and most versatile physical activity you can do outdoors, as long as there's a bit of space.
 - **Put on your shoes**, it'll make a massive difference psychologically, it's all about mental models and reducing friction by doing baby steps: shower, dress up, then go out.
 - **Hobbies**, take a break, do something else other than work
 - **Set a schedule**, none of the above will happen if you don't set a broad schedule, I find going to the gym in the morning (can't get penalised!), really starts my day. I naturally have to shower and get dressed afterwards, and it all snowballs into getting ready to work, lunch break (oftentimes either eat out or go for a walk and eat home)
-- **Chat**, use water cooler channels (#books, #games, #films-series, #pets) to chat with people at work, about things other than work. Video coworkers, friends and family more often.
+- **Chat**, use water cooler channels (#books, #games, #films-series, #pets) to chat with people at work, about things other than work. Video chat with coworkers, friends and family more often.
 - **Mr Rogers**, video chat, pair with 1 or 2 other random people, perhaps from the same water cooler channel, and chat for 15 minutes.
 - **Video and screen share**, chat works but also try and reach out to people and collaborate on your work (saves you from talking about the weather), or do certain ceremonies like stand-ups on video (as well as text).
 
@@ -133,14 +133,14 @@ Yet, on the supply-side, a [2020 survey by GitLab](https://about.gitlab.com/remo
 Hiring remote staff also broadens your market, and with location-adjusted salaries [[1](https://buffer.com/salary)][[2](https://about.gitlab.com/handbook/people-group/global-compensation/calculator/)], no real estate to burn money on, it may be a win:win for employer and employee.
 
 ### Retention
-[Remote staff is happier](https://www.owllabs.com/state-of-remote-work) and enjoys working at their pace, [having more time to care for their family and do chores](https://blog.usejournal.com/early-thoughts-on-distributed-work-a52fa79575ca), and have a better work/life balance after their adaptation period (provided they don't fall and get stuck inside the traps mentioned in Challenges).
+[Remote staff are happier](https://www.owllabs.com/state-of-remote-work) and enjoy working at their pace, [having more time to care for their family and do chores](https://blog.usejournal.com/early-thoughts-on-distributed-work-a52fa79575ca), and have a better work/life balance after their adaptation period (provided they don't fall and get stuck inside the traps mentioned in Challenges).
 
 Retention rates for remote staff are [25% higher](https://www.owllabs.com/state-of-remote-work/2017).
 
 ### Productivity
 The stats show managers are mostly concerned about employee productivity (82% said so)
 
-Surveys report that 82% of remote worker managers worry about the productivity of their direct reports, however, research suggests ([^telecommuting-is-fast-on-the-rise] [^2-year-stanford-study-productivity] [^mckinsey-unlocking-value-and-productivity] [^5-reasons-remote-teams-are-more-engaged]) remote workers are 13% more productive, work for 9% longer hours, happier, and stay with the company 50% more.
+Surveys report that 82% of remote worker managers worry about the productivity of their direct reports, however, research suggests ([^telecommuting-is-fast-on-the-rise] [^2-year-stanford-study-productivity] [^mckinsey-unlocking-value-and-productivity] [^5-reasons-remote-teams-are-more-engaged]) remote workers are 13% more productive, work for 9% longer hours, are happier, and stay with the company 50% more.
 
 First, the reason people are more productive is because even though it can be challenging at first, it's easier to get into focus, and avoid meetings by communicating through text by default, when it's convenient for them, not when they're mid-work. But one of the challenges is indeed burning out if you don't stick to some rules (see Challenges).
 
@@ -248,11 +248,11 @@ The main concern for remote employee managers is productivity. The main benefit 
 
 When people worry about productivity, they come up with metrics like velocity, hours worked, tickets closed, and many more. These are called [vanity metrics](https://amplitude.com/north-star#not-a-vanity-metric) because they have no impact on the success of the company, you may think they have, but I can assure you, that if you have a very productive, 12-hour/day, perfectly time-tracked team, working on the wrong things and with managers breathing down their necks, you'll go bankrupt.
 
-I'm not saying this because I read it somewhere (you can find those stories if you want), I've observed this multiple times. I've seen people being rewarded for creating something no one found useless and wasn't helping closing deals, but their velocity was amazing and they worked on-site. I've seen people optimising the metrics for their own team (deals closed, revenue numbers), leaving the rest of the company to pick up the pieces, scrambling to deliver the impossible, and eventually churning, which didn't help the company.
+I'm not saying this because I read it somewhere (you can find those stories if you want), I've observed this multiple times. I've seen people being rewarded for creating something no one found useful and wasn't helping to close deals, but their velocity was amazing and they worked on-site. I've seen people optimising the metrics for their own team (deals closed, revenue numbers), leaving the rest of the company to pick up the pieces, scrambling to deliver the impossible, and eventually churning, which didn't help the company.
 
 Long-story short, remote employees value flexible schedules, they also reciprocate trust and are more productive than when working on-site (that may be due to lost time commuting, or poor company principles built over time in the absence of a catalyst for reviewing those principles).
 
-When you properly implement a framework like the North Star, OKRs, or both. When you know what people should be working on, when you allow focus to happen, enable cross-functional collaboration, and focus on the outputs of your team and measure how they're pushing you forward, you stop worrying about people's schedules or if you can trust them or not. The proof is in the pudding.
+When you properly implement a framework like the North Star, OKRs, or both, when you know what people should be working on, when you allow focus to happen, enable cross-functional collaboration, and focus on the outputs of your team and measure how they're pushing you forward, you stop worrying about people's schedules or if you can trust them or not. The proof is in the pudding.
 
 **This is a big ask for a company** though and I understand and sympathise with that. Start by reading up on customer-centricity, look at the [North Star Playbook](https://amplitude.com/north-star), [Lean UX](https://duckduckgo.com/?q=lean+ux+book), [Accelerate](https://duckduckgo.com/?q=accelerate+book), [Sense & Respond](https://duckduckgo.com/?q=Sense+%26+Respond). It does not matter if you're B2B, B2B2C, B2C, sustained and increased revenue always comes from providing value to the end-user. The sales process may change, sure, but your direct customer doesn't generate money out of thin air.
 
@@ -266,12 +266,12 @@ The issue with synchronous communication, such as calls, meetings, even with an 
 #### Time-bound
 Meetings and calls are short-lived events: meeting rooms run out, working hours elapse, and people get progressively exhausted after 20 minutes.
 
-When you have a limited amount of time to discover, think, and decide, you're more likely to rush and make a poor decision. Just a couple of weeks ago I was involved in a lengthy discussion involving a lot of unknowns and trade-offs. The meeting this discussion took place in came to an end due to exhaustion and end of the working day, this led to a decision to be made there & then, purely because we ran out of time. Can you imagine, days or years later, someone asking "How come this was done this way?", and the answer bring "Oh we ran out of time and made a call".
+When you have a limited amount of time to discover, think, and decide, you're more likely to rush and make a poor decision. Just a couple of weeks ago I was involved in a lengthy discussion involving a lot of unknowns and trade-offs. The meeting this discussion took place in came to an end due to exhaustion and end of the working day, this led to a decision to be made there & then, purely because we ran out of time. Can you imagine, months or years later, someone asking "How come this was done this way?", and the answer being "Oh we ran out of time and made a call".
 
 Asynchronous, digital discussions don't inherently lead to this outcome, you can start on one morning, and control when you end the discussion and make a decision. If uncertainty is still high, you can prolong the decision-making process. When you're finished, you can go back and read what was said and by whom. Because of the digital medium, you can even run anonymous polls if you wish to limit the number of options and time.
 
 #### Limited exposure
-With physical meetings, spatial constraints limit the number of people involved.  The causes siloing. Natural to any organisation, and in this case it prevents you from leveraging the available talent within the organisation (wisdom of the crowd).
+With physical meetings, spatial constraints limit the number of people involved.  This causes siloing. Siloing is natural to any organisation, and it often prevents you from leveraging the available talent within the organisation (wisdom of the crowd).
 
 Unknown knowns are the facts and skills, the value within your company you're not aware of. Or maybe you are aware but forgot about, or consciously excluded because you feared it would delay the decision.
 
@@ -325,7 +325,7 @@ Enhance written communication on Emails or Slack with emojis, they make a differ
 If you don't wanna be disturbed, change your Slack status, enable Do Not Disturb, or explain to people you need some [Tree Time](https://zapier.com/learn/remote-work/) and that you'll be available soon.
 
 ### People
-It goes without saying that caring for people should be part of any company's principles, values, whatever you wanna call it. It should be on your priorities.
+It goes without saying that caring for people should be part of any company's principles, values, whatever you want to call it. It should be on your priorities.
 
 Pay special attention to physical and mental well-being not just if remote is growing within he company, but also for new starters in all-remote companies.
 
@@ -400,7 +400,7 @@ Having said that, here's what is beneficial to you as a remote worker:
 - Good written or oral communication skills
 - Willingness to learn and adapt on the job
 
-Zapier claims to have found the best matches to come from a freelance, contracting, or startup background. Interesting to hear but it would be unfair (illegal) to exclude people based on this. I'm also conscious about some of these traits may [unfaringly exclude people](https://www.axios.com/coronavirus-exposes-the-digital-divides-toll-7c270aab-82e4-4719-840f-fc06e2b9083c.html). Something to be mindful of.
+Zapier claims to have found the best matches to come from a freelance, contracting, or startup background. Interesting to hear but it would be unfair (illegal) to exclude people based on this. I'm also conscious about some of these traits may [unfairly exclude people](https://www.axios.com/coronavirus-exposes-the-digital-divides-toll-7c270aab-82e4-4719-840f-fc06e2b9083c.html). Something to be mindful of.
 
 For employers, the biggest change is the typical on-site stage of the recruitment process but don't worry too much about it. You can still evaluate candidates successfully through a video call, earlier stages of the process, and final reference checks. Hiring always incurs a level of uncertainty, hence the trial stage of any contract, but uncertainty is something you have to deal with.
 
@@ -409,7 +409,7 @@ Next, do not miss the Onboarding section.
 ### Compensation and Regulation
 The talent pool available to remote companies extends beyond viable commuting distance radius. I've written about how a larger talent pool supports a diverse and inclusive culture, others have written about why this yields [better business](https://blog.capterra.com/7-studies-that-prove-the-value-of-diversity-in-the-workplace/) and social outcomes. There's also a [calculator](https://globalworkplaceanalytics.com/the-remote-work-roi-calculator-v0-95) for the ROI of remote work.
 
-Remote companies often pay a [local rate](https://about.gitlab.com/handbook/people-group/global-compensation/#paying-local-rates). For exactly the same role and seniority, someone living in Brighton, UK won't get paid the same as someone living in San Francisco, USA. This is [fairly controversial](https://news.ycombinator.com/item?id=18441768#18443167) because often we see compensation as a measure of value provided to the company. The reality is a bit more complex and GitLab does a good job at explaining that. It's worth noting that with a lot of private companies, in the absence of pay banding, there is no correlation between role, contribution, and salary. Often you get if you ask for, which is a foundational argument in the gender pay divide.
+Remote companies often pay a [local rate](https://about.gitlab.com/handbook/people-group/global-compensation/#paying-local-rates). For exactly the same role and seniority, someone living in Brighton, UK won't get paid the same as someone living in San Francisco, USA. This is [fairly controversial](https://news.ycombinator.com/item?id=18441768#18443167) because often we see compensation as a measure of value provided to the company. The reality is a bit more complex and GitLab does a good job at explaining that. It's worth noting that with a lot of private companies, in the absence of pay banding, there is no correlation between role, contribution, and salary. Often you get what you ask for, which is a foundational argument in the gender pay divide.
 
 To calculate the local compensation rate, GitLab uses the following formula: [SF Role Benchmark](https://about.gitlab.com/handbook/people-group/global-compensation/#sf-benchmark) x [Location Factor](https://about.gitlab.com/handbook/people-group/global-compensation/#location-factor) (cost of living) x [Level Factor](https://about.gitlab.com/handbook/people-group/global-compensation/#level-factor) (seniority) x [Compa Ratio](https://about.gitlab.com/handbook/people-group/global-compensation/#compa-ratio) (proficiency) x [Contract Factor](https://about.gitlab.com/handbook/people-group/global-compensation/#contract-factor) (risk and additional costs) x [Exchange Rate](https://about.gitlab.com/handbook/people-group/global-compensation/#exchange-rate).
 
