@@ -18,9 +18,9 @@ You can categorise companies by fully remote, part-remote, and fully on-site. I'
 
 1. They're all valid policies;
 2. Transitioning between policies is your biggest challenge;
-3. My whistling and singing not nearly as disruptive when I'm remote.
+3. My whistling and singing are not nearly as disruptive when I'm remote.
 
-Each policy has its subjective and objective pros and cons. On a remote company you've got access to a massive and potentially cheaper workforce, but collaboration tools and face-to-face onboarding can make-or-break the work relationship. On a fully on-site company, it's oftentimes easier to separate work from personal life, but quality of life often suffers due to commuting and living in expensive big city hubs.
+Each policy has its subjective and objective pros and cons. With a remote company you've got access to a massive and potentially cheaper workforce, but collaboration tools and face-to-face onboarding can make-or-break the work relationship. With a fully on-site company, it's oftentimes easier to separate work from personal life, but quality of life often suffers due to commuting and living in expensive big city hubs.
 
 Transitioning from an on-site to a fully remote company, however, is extremely hard, mainly because you're changing processes and tools that people have internalised and automated over many years, and to be honest, it may feel you're driving into the unknown, it can be scary. It's also not an overnight change, you have to make two very different company cultures coexist for a while and that can make process a conscious effort for both sides of the field. For example, a good practice for a part-remote company is for meetings to be held online if any of the attendees is remote, so you can end up having 5 people in the office "zooming in" because 1 person is working remotely.
 
@@ -67,7 +67,7 @@ It's a pandemic, not the zombie apocalypse, so we'll get back to normal. But COV
 - A separate person reports past IT issues (remote desktop security breach), prevents freelance video editors from accessing their powerful work machines when working remotely. Just shows the importance of IT and tools in a remote context, and how certain roles may struggle more than others.
 - Finally, for people who deal with discuss sensitive data through phone calls (e.g. clinical patients), coffee shops, co-working spaces (dedicated meeting rooms may be prohibitively expensive), or shared accommodation won't cut it.
 
-Overall, if you're transitioning into remote, there will be a period of adaptation before you find out if you can do it or not. Part-remote companies will struggle the most. Some people won't adapt into remote working, some won't have the option even if they could adapt. Remote isn't necessarily the future of work, but it can become the default for a lot more people than it is today, with great productivity, health, and cost-saving benefits.
+Overall, if you're transitioning into remote, there will be a period of adaptation before you find out if you can do it or not. Part-remote companies will struggle the most. Some people won't adapt to remote working, some won't have the option even if they could adapt. Remote isn't necessarily the future of work, but it can become the default for a lot more people than it is today, with great productivity, health, and cost-saving benefits.
 
 ## Remote Policies
 
